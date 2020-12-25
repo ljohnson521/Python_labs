@@ -15,3 +15,4 @@
 
 '''
 print("Hello World")
+When I execute code with sytanx errors there is a message that explains what caused the error. In the event that the error is related to quotation or parentheses, there is an opportunity to add the missing character. Some syntax errors require that the code is re iterated. dsError messages are helpful because they give you "clues" regarding the nature of the error and hints about how to fix it. 
