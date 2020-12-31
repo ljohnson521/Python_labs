@@ -10,3 +10,12 @@ Demonstrate how to:
     Take note of what information is lost when some conversions take place.
 
 '''
+first_number = int(6.2)
+print(first_number)
+second_number = float(5)
+print(second_number)
+print(6.3//2)
+cool_game = int(input("Enter a number: "))
+print('Thank you!')
+cool_game2 = int(input('enter another number'))
+print(cool_game2 * cool_game)
