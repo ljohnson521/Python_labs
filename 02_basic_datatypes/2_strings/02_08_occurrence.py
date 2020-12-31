@@ -7,3 +7,7 @@ Letter input: o
 Result: 4
 
 '''
+rope_val = input('Why did the chicken cross the road: ')
+letter_val = input('what letter does your name start with: ')
+where_val = rope_val.find(letter_val)
+print(where_val)
