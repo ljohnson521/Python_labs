@@ -7,4 +7,7 @@ Symbol input: #
 Result: #ore python progra##ing please
 
 '''
-
+practice = input('what is your favorite symbol: ')
+practice1 = input('what is your favorite quote: ')
+more_practice = practice1.replace(practice1[0], practice)
+print(more_practice)
